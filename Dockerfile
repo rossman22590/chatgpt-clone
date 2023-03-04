@@ -14,7 +14,7 @@ RUN npm install
 COPY . .
 
 # Build the project
-RUN npm run build
+RUN npm run start
 
 # Expose port 3000 for the server
 EXPOSE 3000
