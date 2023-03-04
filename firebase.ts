@@ -11,7 +11,6 @@ const firebaseConfig = {
   storageBucket: "chat-gpt-dde2a.appspot.com",
   messagingSenderId: "991088561153",
   appId: "1:991088561153:web:3563d7d2737a5475950400",
-  measurementId: "G-0JPWN2DFG1"
 };
 
 // Initialize Firebase
